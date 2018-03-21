@@ -1,0 +1,25 @@
+{
+  "name": "onepage",
+  "description": "bootsrap project",
+  "main": "Index.html",
+  "moduleType": [],
+  "keywords": [
+    "bootstrap"
+  ],
+  "authors": [
+    "Dean Joseph"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.7",
+  }
+}

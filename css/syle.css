@@ -1,0 +1,267 @@
+/*-------------------------------
+ICONS Section
+-------------------------------*/
+/*http://fontawesome.io/icons/*/
+
+
+body {
+    background-color: ghostwhite;
+}
+
+/*-------------------------------
+Header Section
+-------------------------------*/
+
+#topNav {
+    border-radius: 0;
+    border: none;
+    /*background-color: lightsteelblue;*/
+    /*background-color: black;*/
+    /*border-bottom: 1px solid #ffffff;*/
+}
+
+#myNavbar ul > li > a {
+    font-size: 15px;
+    /*color: #ffffff;*/
+    color: black;
+    font-weight: 500;
+}
+
+
+
+#silverTitle {
+    /*color: #ffffff;*/
+    color: black;
+    font-size: 20px;
+
+}
+
+#act {
+    color: #ffffff;
+}
+
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:focus,
+.navbar-default .navbar-nav>.active>a:hover {
+    background-color: lightgray;
+
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: black;
+}
+
+
+#mainBanner {
+    position: relative;
+    width: 100%;
+    /*background-image: url("../imgs/BridalBanner1.jpg");*/
+    background-image: url("../imgs/bannerSilver.jpg");
+    background-repeat: no-repeat;
+    height: 48vh;
+    background-size: cover;
+    background-position: center;
+    margin-top: -20px;
+}
+
+.headTitle {
+    color: #ffffff;
+}
+
+#headInner {
+    padding-right: 63px;
+    padding-top: 60px;
+}
+
+#rightTopNav {
+    margin-right: -31px;
+}
+
+#topDropDown {
+    margin-top: -1px;
+
+}
+
+.dropdown-menu {
+    border-radius: 0;
+}
+
+.divider {
+    border-bottom: 1px solid darkgrey;
+}
+
+.navbar-default .navbar-toggle {
+    border: none;
+    background-color: black;
+    margin-right: 0%;
+}
+
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: black;
+}
+
+/*-------------------------------
+Nav Section
+-------------------------------*/
+
+
+/*-------------------------------
+main content Section
+-------------------------------*/
+
+#miniMainNav {
+    border-radius: 0;
+    /*background-color: lightsteelblue;*/
+    background-color: black;
+    /*margin-top: -4px;*/
+    border: none;
+}
+
+/*#miniNav {
+    margin: 4px 306px;
+}*/
+
+
+#miniNav ul > li > a{
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 17px;
+    /*margin: 4px 18px;*/
+}
+
+#midNav {
+    margin-left: -24px;
+}
+
+#searchMe {
+    margin-top: -43px;
+    width: 22%;
+}
+
+.headingXs {
+    color: #ffffff;
+    margin-top: 16px;
+}
+
+
+/*-------------------------------
+saleBanner1 Section
+-------------------------------*/
+
+#saleBanner1 {
+    margin-top: -10px;
+}
+
+.mainBanner1 {
+    width: 100%;
+    height: 120px;
+    border: 1px solid black;
+}
+
+#banner1 {
+    background-color: black;
+}
+
+
+#banner1 h3 {
+    margin-top: 35px;
+}
+
+#banner1 a {
+    color: #ffffff;
+    font-size: 40px;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+/*-------------------------------
+service  Section
+-------------------------------*/
+
+#saleBanner2 {
+    margin-top: 5px;
+}
+
+.bannerCont {
+    margin: 3px 0;
+}
+
+.mainBannerLeft {
+    width: 100%;
+    height: 120px;
+    border: 1px solid darkred;
+    cursor: pointer;
+}
+
+#bannerLeft {
+    background-color: darkred;
+}
+
+#bannerLeft:hover {
+    opacity: 0.8;
+}
+
+
+.mainBannerRight {
+    width: 100%;
+    height: 120px;
+    cursor: pointer;
+    border: 1px solid red;
+}
+
+#bannerRight {
+    background-color: red;
+}
+
+#bannerRight:hover {
+    background-color: darkred;
+    border: 1px solid darkred;
+}
+
+
+.bannerCont h2{
+    color: #ffffff;
+    font-size: 36px;
+    padding-bottom: 5px;
+    font-weight: 700;
+}
+
+.bannerCont h3{
+    color: #ffffff;
+    font-size: 26px;
+    font-weight: 700;
+}
+/*-------------------------------
+service  Section
+-------------------------------*/
+
+#saleBanner3 {
+    margin-top: 5px;
+}
+
+
+#mySilverBanner {
+    width: 100%;
+    height: 250px;
+
+}
+
+/*-------------------------------
+gallery  Section
+-------------------------------*/
+
+/*-------------------------------
+Contact  Section
+-------------------------------*/
+
+
+
+
+/*-------------------------------
+banner_bottom  Section
+-------------------------------*/
+
+/*-------------------------------
+Footer  Section
+-------------------------------*/
